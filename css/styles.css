@@ -1,0 +1,27 @@
+body{
+    background-image:url("../image/cinema.jpg");
+    background-size: cover;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: yellowgreen;
+    font-size: 25px;
+}
+
+li{
+    color: white;
+    
+}
+
+ul{
+list-style: disc;
+}
+
+ol {
+    list-style-type:none;
+}
+
